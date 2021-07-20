@@ -1,0 +1,1901 @@
+﻿User_ID,Feature,Description,Rating,Type
+A0001,OS,Android,0,Software
+A0002,OS,Android,0,Software
+A0003,OS,Android,10,Software
+A0004,OS,Android,2,Software
+A0005,OS,Android,7,Software
+A0006,OS,Android,6,Software
+A0007,OS,Android,9,Software
+A0008,OS,Android,4,Software
+A0009,OS,Android,6,Software
+A0010,OS,Android,6,Software
+A0011,OS,Android,5,Software
+A0012,OS,Android,10,Software
+A0013,OS,Android,5,Software
+A0014,OS,Android,6,Software
+A0015,OS,Android,9,Software
+A0016,OS,Android,2,Software
+A0017,OS,Android,10,Software
+A0018,OS,Android,8,Software
+A0019,OS,Android,10,Software
+A0020,OS,Android,8,Software
+A0021,OS,Android,4,Software
+A0022,OS,Android,9,Software
+A0023,OS,Android,3,Software
+A0024,OS,Android,8,Software
+A0025,OS,Android,6,Software
+A0026,OS,Android,0,Software
+A0027,OS,Android,4,Software
+A0028,OS,Android,5,Software
+A0029,OS,Android,1,Software
+A0030,OS,Android,0,Software
+A0031,OS,Android,4,Software
+A0032,OS,Android,6,Software
+A0033,OS,Android,9,Software
+A0034,OS,Android,2,Software
+A0035,OS,Android,8,Software
+A0036,OS,Android,0,Software
+A0037,OS,Android,3,Software
+A0038,OS,Android,1,Software
+A0039,OS,Android,0,Software
+A0040,OS,Android,5,Software
+A0041,OS,Android,3,Software
+A0042,OS,Android,7,Software
+A0043,OS,Android,4,Software
+A0044,OS,Android,2,Software
+A0045,OS,Android,2,Software
+A0046,OS,Android,1,Software
+A0047,OS,Android,6,Software
+A0048,OS,Android,8,Software
+A0049,OS,Android,4,Software
+A0050,OS,Android,2,Software
+A0051,OS,Android,7,Software
+A0052,OS,Android,7,Software
+A0053,OS,Android,2,Software
+A0054,OS,Android,10,Software
+A0055,OS,Android,5,Software
+A0056,OS,Android,9,Software
+A0057,OS,Android,7,Software
+A0058,OS,Android,2,Software
+A0059,OS,Android,2,Software
+A0060,OS,Android,3,Software
+A0061,OS,Android,9,Software
+A0062,OS,Android,2,Software
+A0063,OS,Android,5,Software
+A0064,OS,Android,8,Software
+A0065,OS,Android,4,Software
+A0066,OS,Android,5,Software
+A0067,OS,Android,4,Software
+A0068,OS,Android,7,Software
+A0069,OS,Android,4,Software
+A0070,OS,Android,1,Software
+A0071,OS,Android,9,Software
+A0072,OS,Android,1,Software
+A0073,OS,Android,8,Software
+A0074,OS,Android,2,Software
+A0075,OS,Android,7,Software
+A0076,OS,Android,7,Software
+A0077,OS,Android,6,Software
+A0078,OS,Android,6,Software
+A0079,OS,Android,6,Software
+A0080,OS,Android,9,Software
+A0081,OS,Android,6,Software
+A0082,OS,Android,5,Software
+A0083,OS,Android,2,Software
+A0084,OS,Android,3,Software
+A0085,OS,Android,7,Software
+A0086,OS,Android,4,Software
+A0087,OS,Android,7,Software
+A0088,OS,Android,5,Software
+A0089,OS,Android,3,Software
+A0090,OS,Android,8,Software
+A0091,OS,Android,10,Software
+A0092,OS,Android,6,Software
+A0093,OS,Android,4,Software
+A0094,OS,Android,4,Software
+A0095,OS,Android,4,Software
+A0096,OS,Android,7,Software
+A0097,OS,Android,9,Software
+A0098,OS,Android,2,Software
+A0099,OS,Android,1,Software
+A0100,OS,Android,0,Software
+A0001,Ram,2631,7,Hardware
+A0002,Ram,2631,9,Hardware
+A0003,Ram,2631,0,Hardware
+A0004,Ram,2631,10,Hardware
+A0005,Ram,2631,0,Hardware
+A0006,Ram,2631,7,Hardware
+A0007,Ram,2631,8,Hardware
+A0008,Ram,2631,0,Hardware
+A0009,Ram,2631,1,Hardware
+A0010,Ram,2631,2,Hardware
+A0011,Ram,2631,1,Hardware
+A0012,Ram,2631,1,Hardware
+A0013,Ram,2631,5,Hardware
+A0014,Ram,2631,5,Hardware
+A0015,Ram,2631,9,Hardware
+A0016,Ram,2631,5,Hardware
+A0017,Ram,2631,3,Hardware
+A0018,Ram,2631,3,Hardware
+A0019,Ram,2631,6,Hardware
+A0020,Ram,2631,5,Hardware
+A0021,Ram,2631,0,Hardware
+A0022,Ram,2631,3,Hardware
+A0023,Ram,2631,10,Hardware
+A0024,Ram,2631,3,Hardware
+A0025,Ram,2631,10,Hardware
+A0026,Ram,2631,5,Hardware
+A0027,Ram,2631,0,Hardware
+A0028,Ram,2631,2,Hardware
+A0029,Ram,2631,3,Hardware
+A0030,Ram,2631,7,Hardware
+A0031,Ram,2631,9,Hardware
+A0032,Ram,2631,10,Hardware
+A0033,Ram,2631,4,Hardware
+A0034,Ram,2631,0,Hardware
+A0035,Ram,2631,1,Hardware
+A0036,Ram,2631,6,Hardware
+A0037,Ram,2631,7,Hardware
+A0038,Ram,2631,0,Hardware
+A0039,Ram,2631,2,Hardware
+A0040,Ram,2631,5,Hardware
+A0041,Ram,2631,3,Hardware
+A0042,Ram,2631,3,Hardware
+A0043,Ram,2631,2,Hardware
+A0044,Ram,2631,6,Hardware
+A0045,Ram,2631,3,Hardware
+A0046,Ram,2631,9,Hardware
+A0047,Ram,2631,6,Hardware
+A0048,Ram,2631,0,Hardware
+A0049,Ram,2631,9,Hardware
+A0050,Ram,2631,3,Hardware
+A0051,Ram,2631,5,Hardware
+A0052,Ram,2631,10,Hardware
+A0053,Ram,2631,8,Hardware
+A0054,Ram,2631,5,Hardware
+A0055,Ram,2631,2,Hardware
+A0056,Ram,2631,2,Hardware
+A0057,Ram,2631,4,Hardware
+A0058,Ram,2631,3,Hardware
+A0059,Ram,2631,1,Hardware
+A0060,Ram,2631,5,Hardware
+A0061,Ram,2631,7,Hardware
+A0062,Ram,2631,10,Hardware
+A0063,Ram,2631,10,Hardware
+A0064,Ram,2631,5,Hardware
+A0065,Ram,2631,4,Hardware
+A0066,Ram,2631,3,Hardware
+A0067,Ram,2631,3,Hardware
+A0068,Ram,2631,0,Hardware
+A0069,Ram,2631,2,Hardware
+A0070,Ram,2631,4,Hardware
+A0071,Ram,2631,6,Hardware
+A0072,Ram,2631,8,Hardware
+A0073,Ram,2631,8,Hardware
+A0074,Ram,2631,6,Hardware
+A0075,Ram,2631,1,Hardware
+A0076,Ram,2631,7,Hardware
+A0077,Ram,2631,5,Hardware
+A0078,Ram,2631,6,Hardware
+A0079,Ram,2631,8,Hardware
+A0080,Ram,2631,9,Hardware
+A0081,Ram,2631,8,Hardware
+A0082,Ram,2631,7,Hardware
+A0083,Ram,2631,10,Hardware
+A0084,Ram,2631,1,Hardware
+A0085,Ram,2631,8,Hardware
+A0086,Ram,2631,2,Hardware
+A0087,Ram,2631,5,Hardware
+A0088,Ram,2631,4,Hardware
+A0089,Ram,2631,5,Hardware
+A0090,Ram,2631,1,Hardware
+A0091,Ram,2631,4,Hardware
+A0092,Ram,2631,10,Hardware
+A0093,Ram,2631,3,Hardware
+A0094,Ram,2631,3,Hardware
+A0095,Ram,2631,8,Hardware
+A0096,Ram,2631,2,Hardware
+A0097,Ram,2631,3,Hardware
+A0098,Ram,2631,9,Hardware
+A0099,Ram,2631,7,Hardware
+A0100,Ram,2631,7,Hardware
+A0001,PX Height,905,8,Hardware
+A0002,PX Height,905,8,Hardware
+A0003,PX Height,905,0,Hardware
+A0004,PX Height,905,0,Hardware
+A0005,PX Height,905,9,Hardware
+A0006,PX Height,905,3,Hardware
+A0007,PX Height,905,10,Hardware
+A0008,PX Height,905,5,Hardware
+A0009,PX Height,905,4,Hardware
+A0010,PX Height,905,6,Hardware
+A0011,PX Height,905,2,Hardware
+A0012,PX Height,905,9,Hardware
+A0013,PX Height,905,9,Hardware
+A0014,PX Height,905,5,Hardware
+A0015,PX Height,905,8,Hardware
+A0016,PX Height,905,9,Hardware
+A0017,PX Height,905,0,Hardware
+A0018,PX Height,905,2,Hardware
+A0019,PX Height,905,1,Hardware
+A0020,PX Height,905,4,Hardware
+A0021,PX Height,905,9,Hardware
+A0022,PX Height,905,9,Hardware
+A0023,PX Height,905,6,Hardware
+A0024,PX Height,905,2,Hardware
+A0025,PX Height,905,6,Hardware
+A0026,PX Height,905,5,Hardware
+A0027,PX Height,905,0,Hardware
+A0028,PX Height,905,2,Hardware
+A0029,PX Height,905,3,Hardware
+A0030,PX Height,905,3,Hardware
+A0031,PX Height,905,7,Hardware
+A0032,PX Height,905,5,Hardware
+A0033,PX Height,905,0,Hardware
+A0034,PX Height,905,8,Hardware
+A0035,PX Height,905,8,Hardware
+A0036,PX Height,905,9,Hardware
+A0037,PX Height,905,5,Hardware
+A0038,PX Height,905,1,Hardware
+A0039,PX Height,905,4,Hardware
+A0040,PX Height,905,6,Hardware
+A0041,PX Height,905,6,Hardware
+A0042,PX Height,905,1,Hardware
+A0043,PX Height,905,9,Hardware
+A0044,PX Height,905,2,Hardware
+A0045,PX Height,905,9,Hardware
+A0046,PX Height,905,4,Hardware
+A0047,PX Height,905,6,Hardware
+A0048,PX Height,905,2,Hardware
+A0049,PX Height,905,5,Hardware
+A0050,PX Height,905,2,Hardware
+A0051,PX Height,905,4,Hardware
+A0052,PX Height,905,6,Hardware
+A0053,PX Height,905,5,Hardware
+A0054,PX Height,905,9,Hardware
+A0055,PX Height,905,0,Hardware
+A0056,PX Height,905,6,Hardware
+A0057,PX Height,905,6,Hardware
+A0058,PX Height,905,10,Hardware
+A0059,PX Height,905,6,Hardware
+A0060,PX Height,905,9,Hardware
+A0061,PX Height,905,10,Hardware
+A0062,PX Height,905,3,Hardware
+A0063,PX Height,905,7,Hardware
+A0064,PX Height,905,2,Hardware
+A0065,PX Height,905,1,Hardware
+A0066,PX Height,905,0,Hardware
+A0067,PX Height,905,4,Hardware
+A0068,PX Height,905,3,Hardware
+A0069,PX Height,905,1,Hardware
+A0070,PX Height,905,1,Hardware
+A0071,PX Height,905,1,Hardware
+A0072,PX Height,905,0,Hardware
+A0073,PX Height,905,0,Hardware
+A0074,PX Height,905,5,Hardware
+A0075,PX Height,905,6,Hardware
+A0076,PX Height,905,4,Hardware
+A0077,PX Height,905,6,Hardware
+A0078,PX Height,905,9,Hardware
+A0079,PX Height,905,1,Hardware
+A0080,PX Height,905,4,Hardware
+A0081,PX Height,905,3,Hardware
+A0082,PX Height,905,5,Hardware
+A0083,PX Height,905,9,Hardware
+A0084,PX Height,905,3,Hardware
+A0085,PX Height,905,8,Hardware
+A0086,PX Height,905,10,Hardware
+A0087,PX Height,905,7,Hardware
+A0088,PX Height,905,6,Hardware
+A0089,PX Height,905,10,Hardware
+A0090,PX Height,905,7,Hardware
+A0091,PX Height,905,1,Hardware
+A0092,PX Height,905,10,Hardware
+A0093,PX Height,905,3,Hardware
+A0094,PX Height,905,0,Hardware
+A0095,PX Height,905,0,Hardware
+A0096,PX Height,905,2,Hardware
+A0097,PX Height,905,7,Hardware
+A0098,PX Height,905,7,Hardware
+A0099,PX Height,905,7,Hardware
+A0100,PX Height,905,7,Hardware
+A0001,PX Width,1988,1,Hardware
+A0002,PX Width,1988,1,Hardware
+A0003,PX Width,1988,6,Hardware
+A0004,PX Width,1988,3,Hardware
+A0005,PX Width,1988,4,Hardware
+A0006,PX Width,1988,7,Hardware
+A0007,PX Width,1988,6,Hardware
+A0008,PX Width,1988,2,Hardware
+A0009,PX Width,1988,9,Hardware
+A0010,PX Width,1988,1,Hardware
+A0011,PX Width,1988,9,Hardware
+A0012,PX Width,1988,10,Hardware
+A0013,PX Width,1988,7,Hardware
+A0014,PX Width,1988,1,Hardware
+A0015,PX Width,1988,5,Hardware
+A0016,PX Width,1988,6,Hardware
+A0017,PX Width,1988,2,Hardware
+A0018,PX Width,1988,6,Hardware
+A0019,PX Width,1988,8,Hardware
+A0020,PX Width,1988,3,Hardware
+A0021,PX Width,1988,3,Hardware
+A0022,PX Width,1988,8,Hardware
+A0023,PX Width,1988,4,Hardware
+A0024,PX Width,1988,3,Hardware
+A0025,PX Width,1988,2,Hardware
+A0026,PX Width,1988,7,Hardware
+A0027,PX Width,1988,0,Hardware
+A0028,PX Width,1988,8,Hardware
+A0029,PX Width,1988,4,Hardware
+A0030,PX Width,1988,6,Hardware
+A0031,PX Width,1988,8,Hardware
+A0032,PX Width,1988,7,Hardware
+A0033,PX Width,1988,7,Hardware
+A0034,PX Width,1988,10,Hardware
+A0035,PX Width,1988,9,Hardware
+A0036,PX Width,1988,5,Hardware
+A0037,PX Width,1988,6,Hardware
+A0038,PX Width,1988,4,Hardware
+A0039,PX Width,1988,2,Hardware
+A0040,PX Width,1988,0,Hardware
+A0041,PX Width,1988,10,Hardware
+A0042,PX Width,1988,3,Hardware
+A0043,PX Width,1988,8,Hardware
+A0044,PX Width,1988,6,Hardware
+A0045,PX Width,1988,7,Hardware
+A0046,PX Width,1988,5,Hardware
+A0047,PX Width,1988,8,Hardware
+A0048,PX Width,1988,1,Hardware
+A0049,PX Width,1988,9,Hardware
+A0050,PX Width,1988,5,Hardware
+A0051,PX Width,1988,7,Hardware
+A0052,PX Width,1988,1,Hardware
+A0053,PX Width,1988,4,Hardware
+A0054,PX Width,1988,5,Hardware
+A0055,PX Width,1988,8,Hardware
+A0056,PX Width,1988,7,Hardware
+A0057,PX Width,1988,2,Hardware
+A0058,PX Width,1988,4,Hardware
+A0059,PX Width,1988,0,Hardware
+A0060,PX Width,1988,5,Hardware
+A0061,PX Width,1988,8,Hardware
+A0062,PX Width,1988,0,Hardware
+A0063,PX Width,1988,4,Hardware
+A0064,PX Width,1988,9,Hardware
+A0065,PX Width,1988,2,Hardware
+A0066,PX Width,1988,2,Hardware
+A0067,PX Width,1988,6,Hardware
+A0068,PX Width,1988,6,Hardware
+A0069,PX Width,1988,10,Hardware
+A0070,PX Width,1988,1,Hardware
+A0071,PX Width,1988,9,Hardware
+A0072,PX Width,1988,9,Hardware
+A0073,PX Width,1988,8,Hardware
+A0074,PX Width,1988,2,Hardware
+A0075,PX Width,1988,4,Hardware
+A0076,PX Width,1988,6,Hardware
+A0077,PX Width,1988,1,Hardware
+A0078,PX Width,1988,6,Hardware
+A0079,PX Width,1988,2,Hardware
+A0080,PX Width,1988,10,Hardware
+A0081,PX Width,1988,0,Hardware
+A0082,PX Width,1988,5,Hardware
+A0083,PX Width,1988,10,Hardware
+A0084,PX Width,1988,4,Hardware
+A0085,PX Width,1988,0,Hardware
+A0086,PX Width,1988,5,Hardware
+A0087,PX Width,1988,9,Hardware
+A0088,PX Width,1988,9,Hardware
+A0089,PX Width,1988,9,Hardware
+A0090,PX Width,1988,9,Hardware
+A0091,PX Width,1988,6,Hardware
+A0092,PX Width,1988,7,Hardware
+A0093,PX Width,1988,8,Hardware
+A0094,PX Width,1988,8,Hardware
+A0095,PX Width,1988,6,Hardware
+A0096,PX Width,1988,3,Hardware
+A0097,PX Width,1988,9,Hardware
+A0098,PX Width,1988,6,Hardware
+A0099,PX Width,1988,10,Hardware
+A0100,PX Width,1988,5,Hardware
+A0001,Wifi,Yes,7,Software
+A0002,Wifi,Yes,10,Software
+A0003,Wifi,Yes,1,Software
+A0004,Wifi,Yes,6,Software
+A0005,Wifi,Yes,7,Software
+A0006,Wifi,Yes,10,Software
+A0007,Wifi,Yes,4,Software
+A0008,Wifi,Yes,2,Software
+A0009,Wifi,Yes,10,Software
+A0010,Wifi,Yes,8,Software
+A0011,Wifi,Yes,8,Software
+A0012,Wifi,Yes,4,Software
+A0013,Wifi,Yes,2,Software
+A0014,Wifi,Yes,8,Software
+A0015,Wifi,Yes,10,Software
+A0016,Wifi,Yes,4,Software
+A0017,Wifi,Yes,1,Software
+A0018,Wifi,Yes,1,Software
+A0019,Wifi,Yes,10,Software
+A0020,Wifi,Yes,8,Software
+A0021,Wifi,Yes,8,Software
+A0022,Wifi,Yes,4,Software
+A0023,Wifi,Yes,0,Software
+A0024,Wifi,Yes,9,Software
+A0025,Wifi,Yes,5,Software
+A0026,Wifi,Yes,0,Software
+A0027,Wifi,Yes,4,Software
+A0028,Wifi,Yes,3,Software
+A0029,Wifi,Yes,4,Software
+A0030,Wifi,Yes,1,Software
+A0031,Wifi,Yes,0,Software
+A0032,Wifi,Yes,6,Software
+A0033,Wifi,Yes,5,Software
+A0034,Wifi,Yes,3,Software
+A0035,Wifi,Yes,4,Software
+A0036,Wifi,Yes,5,Software
+A0037,Wifi,Yes,10,Software
+A0038,Wifi,Yes,6,Software
+A0039,Wifi,Yes,9,Software
+A0040,Wifi,Yes,7,Software
+A0041,Wifi,Yes,6,Software
+A0042,Wifi,Yes,3,Software
+A0043,Wifi,Yes,2,Software
+A0044,Wifi,Yes,5,Software
+A0045,Wifi,Yes,8,Software
+A0046,Wifi,Yes,7,Software
+A0047,Wifi,Yes,7,Software
+A0048,Wifi,Yes,10,Software
+A0049,Wifi,Yes,0,Software
+A0050,Wifi,Yes,5,Software
+A0051,Wifi,Yes,2,Software
+A0052,Wifi,Yes,7,Software
+A0053,Wifi,Yes,0,Software
+A0054,Wifi,Yes,4,Software
+A0055,Wifi,Yes,10,Software
+A0056,Wifi,Yes,5,Software
+A0057,Wifi,Yes,7,Software
+A0058,Wifi,Yes,10,Software
+A0059,Wifi,Yes,7,Software
+A0060,Wifi,Yes,5,Software
+A0061,Wifi,Yes,1,Software
+A0062,Wifi,Yes,6,Software
+A0063,Wifi,Yes,9,Software
+A0064,Wifi,Yes,10,Software
+A0065,Wifi,Yes,1,Software
+A0066,Wifi,Yes,8,Software
+A0067,Wifi,Yes,4,Software
+A0068,Wifi,Yes,9,Software
+A0069,Wifi,Yes,0,Software
+A0070,Wifi,Yes,1,Software
+A0071,Wifi,Yes,1,Software
+A0072,Wifi,Yes,2,Software
+A0073,Wifi,Yes,9,Software
+A0074,Wifi,Yes,8,Software
+A0075,Wifi,Yes,6,Software
+A0076,Wifi,Yes,9,Software
+A0077,Wifi,Yes,2,Software
+A0078,Wifi,Yes,0,Software
+A0079,Wifi,Yes,10,Software
+A0080,Wifi,Yes,7,Software
+A0081,Wifi,Yes,10,Software
+A0082,Wifi,Yes,3,Software
+A0083,Wifi,Yes,2,Software
+A0084,Wifi,Yes,7,Software
+A0085,Wifi,Yes,2,Software
+A0086,Wifi,Yes,3,Software
+A0087,Wifi,Yes,1,Software
+A0088,Wifi,Yes,6,Software
+A0089,Wifi,Yes,3,Software
+A0090,Wifi,Yes,4,Software
+A0091,Wifi,Yes,2,Software
+A0092,Wifi,Yes,6,Software
+A0093,Wifi,Yes,7,Software
+A0094,Wifi,Yes,4,Software
+A0095,Wifi,Yes,0,Software
+A0096,Wifi,Yes,9,Software
+A0097,Wifi,Yes,0,Software
+A0098,Wifi,Yes,2,Software
+A0099,Wifi,Yes,6,Software
+A0100,Wifi,Yes,2,Software
+A0001,Touch Screen,Yes,7,Hardware
+A0002,Touch Screen,Yes,7,Hardware
+A0003,Touch Screen,Yes,7,Hardware
+A0004,Touch Screen,Yes,6,Hardware
+A0005,Touch Screen,Yes,8,Hardware
+A0006,Touch Screen,Yes,8,Hardware
+A0007,Touch Screen,Yes,0,Hardware
+A0008,Touch Screen,Yes,2,Hardware
+A0009,Touch Screen,Yes,10,Hardware
+A0010,Touch Screen,Yes,9,Hardware
+A0011,Touch Screen,Yes,7,Hardware
+A0012,Touch Screen,Yes,5,Hardware
+A0013,Touch Screen,Yes,9,Hardware
+A0014,Touch Screen,Yes,10,Hardware
+A0015,Touch Screen,Yes,4,Hardware
+A0016,Touch Screen,Yes,10,Hardware
+A0017,Touch Screen,Yes,5,Hardware
+A0018,Touch Screen,Yes,1,Hardware
+A0019,Touch Screen,Yes,5,Hardware
+A0020,Touch Screen,Yes,3,Hardware
+A0021,Touch Screen,Yes,3,Hardware
+A0022,Touch Screen,Yes,6,Hardware
+A0023,Touch Screen,Yes,0,Hardware
+A0024,Touch Screen,Yes,2,Hardware
+A0025,Touch Screen,Yes,4,Hardware
+A0026,Touch Screen,Yes,8,Hardware
+A0027,Touch Screen,Yes,9,Hardware
+A0028,Touch Screen,Yes,4,Hardware
+A0029,Touch Screen,Yes,10,Hardware
+A0030,Touch Screen,Yes,10,Hardware
+A0031,Touch Screen,Yes,4,Hardware
+A0032,Touch Screen,Yes,10,Hardware
+A0033,Touch Screen,Yes,7,Hardware
+A0034,Touch Screen,Yes,5,Hardware
+A0035,Touch Screen,Yes,2,Hardware
+A0036,Touch Screen,Yes,0,Hardware
+A0037,Touch Screen,Yes,5,Hardware
+A0038,Touch Screen,Yes,3,Hardware
+A0039,Touch Screen,Yes,6,Hardware
+A0040,Touch Screen,Yes,4,Hardware
+A0041,Touch Screen,Yes,2,Hardware
+A0042,Touch Screen,Yes,8,Hardware
+A0043,Touch Screen,Yes,3,Hardware
+A0044,Touch Screen,Yes,6,Hardware
+A0045,Touch Screen,Yes,8,Hardware
+A0046,Touch Screen,Yes,2,Hardware
+A0047,Touch Screen,Yes,5,Hardware
+A0048,Touch Screen,Yes,3,Hardware
+A0049,Touch Screen,Yes,8,Hardware
+A0050,Touch Screen,Yes,0,Hardware
+A0051,Touch Screen,Yes,10,Hardware
+A0052,Touch Screen,Yes,8,Hardware
+A0053,Touch Screen,Yes,10,Hardware
+A0054,Touch Screen,Yes,4,Hardware
+A0055,Touch Screen,Yes,7,Hardware
+A0056,Touch Screen,Yes,7,Hardware
+A0057,Touch Screen,Yes,5,Hardware
+A0058,Touch Screen,Yes,8,Hardware
+A0059,Touch Screen,Yes,4,Hardware
+A0060,Touch Screen,Yes,4,Hardware
+A0061,Touch Screen,Yes,3,Hardware
+A0062,Touch Screen,Yes,9,Hardware
+A0063,Touch Screen,Yes,3,Hardware
+A0064,Touch Screen,Yes,8,Hardware
+A0065,Touch Screen,Yes,6,Hardware
+A0066,Touch Screen,Yes,10,Hardware
+A0067,Touch Screen,Yes,2,Hardware
+A0068,Touch Screen,Yes,5,Hardware
+A0069,Touch Screen,Yes,9,Hardware
+A0070,Touch Screen,Yes,1,Hardware
+A0071,Touch Screen,Yes,3,Hardware
+A0072,Touch Screen,Yes,6,Hardware
+A0073,Touch Screen,Yes,8,Hardware
+A0074,Touch Screen,Yes,2,Hardware
+A0075,Touch Screen,Yes,4,Hardware
+A0076,Touch Screen,Yes,8,Hardware
+A0077,Touch Screen,Yes,4,Hardware
+A0078,Touch Screen,Yes,10,Hardware
+A0079,Touch Screen,Yes,1,Hardware
+A0080,Touch Screen,Yes,3,Hardware
+A0081,Touch Screen,Yes,7,Hardware
+A0082,Touch Screen,Yes,1,Hardware
+A0083,Touch Screen,Yes,9,Hardware
+A0084,Touch Screen,Yes,10,Hardware
+A0085,Touch Screen,Yes,3,Hardware
+A0086,Touch Screen,Yes,9,Hardware
+A0087,Touch Screen,Yes,9,Hardware
+A0088,Touch Screen,Yes,6,Hardware
+A0089,Touch Screen,Yes,9,Hardware
+A0090,Touch Screen,Yes,9,Hardware
+A0091,Touch Screen,Yes,8,Hardware
+A0092,Touch Screen,Yes,10,Hardware
+A0093,Touch Screen,Yes,5,Hardware
+A0094,Touch Screen,Yes,10,Hardware
+A0095,Touch Screen,Yes,4,Hardware
+A0096,Touch Screen,Yes,0,Hardware
+A0097,Touch Screen,Yes,8,Hardware
+A0098,Touch Screen,Yes,4,Hardware
+A0099,Touch Screen,Yes,1,Hardware
+A0100,Touch Screen,Yes,0,Hardware
+A0001,SC Height,17,7,Hardware
+A0002,SC Height,17,4,Hardware
+A0003,SC Height,17,8,Hardware
+A0004,SC Height,17,8,Hardware
+A0005,SC Height,17,2,Hardware
+A0006,SC Height,17,8,Hardware
+A0007,SC Height,17,9,Hardware
+A0008,SC Height,17,5,Hardware
+A0009,SC Height,17,4,Hardware
+A0010,SC Height,17,1,Hardware
+A0011,SC Height,17,9,Hardware
+A0012,SC Height,17,6,Hardware
+A0013,SC Height,17,2,Hardware
+A0014,SC Height,17,1,Hardware
+A0015,SC Height,17,6,Hardware
+A0016,SC Height,17,1,Hardware
+A0017,SC Height,17,2,Hardware
+A0018,SC Height,17,8,Hardware
+A0019,SC Height,17,9,Hardware
+A0020,SC Height,17,9,Hardware
+A0021,SC Height,17,5,Hardware
+A0022,SC Height,17,4,Hardware
+A0023,SC Height,17,1,Hardware
+A0024,SC Height,17,6,Hardware
+A0025,SC Height,17,9,Hardware
+A0026,SC Height,17,2,Hardware
+A0027,SC Height,17,6,Hardware
+A0028,SC Height,17,2,Hardware
+A0029,SC Height,17,9,Hardware
+A0030,SC Height,17,8,Hardware
+A0031,SC Height,17,0,Hardware
+A0032,SC Height,17,7,Hardware
+A0033,SC Height,17,9,Hardware
+A0034,SC Height,17,6,Hardware
+A0035,SC Height,17,9,Hardware
+A0036,SC Height,17,9,Hardware
+A0037,SC Height,17,9,Hardware
+A0038,SC Height,17,2,Hardware
+A0039,SC Height,17,1,Hardware
+A0040,SC Height,17,9,Hardware
+A0041,SC Height,17,3,Hardware
+A0042,SC Height,17,9,Hardware
+A0043,SC Height,17,10,Hardware
+A0044,SC Height,17,9,Hardware
+A0045,SC Height,17,2,Hardware
+A0046,SC Height,17,4,Hardware
+A0047,SC Height,17,6,Hardware
+A0048,SC Height,17,9,Hardware
+A0049,SC Height,17,1,Hardware
+A0050,SC Height,17,3,Hardware
+A0051,SC Height,17,6,Hardware
+A0052,SC Height,17,2,Hardware
+A0053,SC Height,17,10,Hardware
+A0054,SC Height,17,7,Hardware
+A0055,SC Height,17,0,Hardware
+A0056,SC Height,17,7,Hardware
+A0057,SC Height,17,5,Hardware
+A0058,SC Height,17,0,Hardware
+A0059,SC Height,17,8,Hardware
+A0060,SC Height,17,8,Hardware
+A0061,SC Height,17,2,Hardware
+A0062,SC Height,17,9,Hardware
+A0063,SC Height,17,6,Hardware
+A0064,SC Height,17,6,Hardware
+A0065,SC Height,17,5,Hardware
+A0066,SC Height,17,9,Hardware
+A0067,SC Height,17,10,Hardware
+A0068,SC Height,17,10,Hardware
+A0069,SC Height,17,5,Hardware
+A0070,SC Height,17,7,Hardware
+A0071,SC Height,17,9,Hardware
+A0072,SC Height,17,0,Hardware
+A0073,SC Height,17,10,Hardware
+A0074,SC Height,17,2,Hardware
+A0075,SC Height,17,7,Hardware
+A0076,SC Height,17,4,Hardware
+A0077,SC Height,17,8,Hardware
+A0078,SC Height,17,8,Hardware
+A0079,SC Height,17,9,Hardware
+A0080,SC Height,17,7,Hardware
+A0081,SC Height,17,6,Hardware
+A0082,SC Height,17,4,Hardware
+A0083,SC Height,17,6,Hardware
+A0084,SC Height,17,10,Hardware
+A0085,SC Height,17,6,Hardware
+A0086,SC Height,17,8,Hardware
+A0087,SC Height,17,8,Hardware
+A0088,SC Height,17,1,Hardware
+A0089,SC Height,17,7,Hardware
+A0090,SC Height,17,0,Hardware
+A0091,SC Height,17,5,Hardware
+A0092,SC Height,17,4,Hardware
+A0093,SC Height,17,10,Hardware
+A0094,SC Height,17,4,Hardware
+A0095,SC Height,17,3,Hardware
+A0096,SC Height,17,4,Hardware
+A0097,SC Height,17,2,Hardware
+A0098,SC Height,17,4,Hardware
+A0099,SC Height,17,2,Hardware
+A0100,SC Height,17,0,Hardware
+A0001,SC Width,3,5,Hardware
+A0002,SC Width,3,9,Hardware
+A0003,SC Width,3,9,Hardware
+A0004,SC Width,3,2,Hardware
+A0005,SC Width,3,2,Hardware
+A0006,SC Width,3,10,Hardware
+A0007,SC Width,3,8,Hardware
+A0008,SC Width,3,10,Hardware
+A0009,SC Width,3,6,Hardware
+A0010,SC Width,3,10,Hardware
+A0011,SC Width,3,9,Hardware
+A0012,SC Width,3,6,Hardware
+A0013,SC Width,3,10,Hardware
+A0014,SC Width,3,9,Hardware
+A0015,SC Width,3,10,Hardware
+A0016,SC Width,3,3,Hardware
+A0017,SC Width,3,9,Hardware
+A0018,SC Width,3,9,Hardware
+A0019,SC Width,3,8,Hardware
+A0020,SC Width,3,1,Hardware
+A0021,SC Width,3,10,Hardware
+A0022,SC Width,3,4,Hardware
+A0023,SC Width,3,5,Hardware
+A0024,SC Width,3,8,Hardware
+A0025,SC Width,3,2,Hardware
+A0026,SC Width,3,6,Hardware
+A0027,SC Width,3,8,Hardware
+A0028,SC Width,3,4,Hardware
+A0029,SC Width,3,6,Hardware
+A0030,SC Width,3,7,Hardware
+A0031,SC Width,3,0,Hardware
+A0032,SC Width,3,9,Hardware
+A0033,SC Width,3,6,Hardware
+A0034,SC Width,3,10,Hardware
+A0035,SC Width,3,3,Hardware
+A0036,SC Width,3,3,Hardware
+A0037,SC Width,3,8,Hardware
+A0038,SC Width,3,8,Hardware
+A0039,SC Width,3,9,Hardware
+A0040,SC Width,3,4,Hardware
+A0041,SC Width,3,2,Hardware
+A0042,SC Width,3,8,Hardware
+A0043,SC Width,3,10,Hardware
+A0044,SC Width,3,3,Hardware
+A0045,SC Width,3,10,Hardware
+A0046,SC Width,3,8,Hardware
+A0047,SC Width,3,10,Hardware
+A0048,SC Width,3,3,Hardware
+A0049,SC Width,3,10,Hardware
+A0050,SC Width,3,8,Hardware
+A0051,SC Width,3,9,Hardware
+A0052,SC Width,3,9,Hardware
+A0053,SC Width,3,7,Hardware
+A0054,SC Width,3,1,Hardware
+A0055,SC Width,3,3,Hardware
+A0056,SC Width,3,7,Hardware
+A0057,SC Width,3,10,Hardware
+A0058,SC Width,3,10,Hardware
+A0059,SC Width,3,1,Hardware
+A0060,SC Width,3,10,Hardware
+A0061,SC Width,3,1,Hardware
+A0062,SC Width,3,4,Hardware
+A0063,SC Width,3,5,Hardware
+A0064,SC Width,3,7,Hardware
+A0065,SC Width,3,4,Hardware
+A0066,SC Width,3,5,Hardware
+A0067,SC Width,3,6,Hardware
+A0068,SC Width,3,7,Hardware
+A0069,SC Width,3,4,Hardware
+A0070,SC Width,3,5,Hardware
+A0071,SC Width,3,6,Hardware
+A0072,SC Width,3,7,Hardware
+A0073,SC Width,3,6,Hardware
+A0074,SC Width,3,0,Hardware
+A0075,SC Width,3,4,Hardware
+A0076,SC Width,3,3,Hardware
+A0077,SC Width,3,0,Hardware
+A0078,SC Width,3,3,Hardware
+A0079,SC Width,3,0,Hardware
+A0080,SC Width,3,2,Hardware
+A0081,SC Width,3,6,Hardware
+A0082,SC Width,3,0,Hardware
+A0083,SC Width,3,7,Hardware
+A0084,SC Width,3,7,Hardware
+A0085,SC Width,3,2,Hardware
+A0086,SC Width,3,2,Hardware
+A0087,SC Width,3,6,Hardware
+A0088,SC Width,3,10,Hardware
+A0089,SC Width,3,7,Hardware
+A0090,SC Width,3,5,Hardware
+A0091,SC Width,3,4,Hardware
+A0092,SC Width,3,3,Hardware
+A0093,SC Width,3,7,Hardware
+A0094,SC Width,3,8,Hardware
+A0095,SC Width,3,6,Hardware
+A0096,SC Width,3,9,Hardware
+A0097,SC Width,3,6,Hardware
+A0098,SC Width,3,6,Hardware
+A0099,SC Width,3,8,Hardware
+A0100,SC Width,3,4,Hardware
+A0001,Internal Memory,53,1,Hardware
+A0002,Internal Memory,53,1,Hardware
+A0003,Internal Memory,53,8,Hardware
+A0004,Internal Memory,53,10,Hardware
+A0005,Internal Memory,53,7,Hardware
+A0006,Internal Memory,53,1,Hardware
+A0007,Internal Memory,53,0,Hardware
+A0008,Internal Memory,53,6,Hardware
+A0009,Internal Memory,53,5,Hardware
+A0010,Internal Memory,53,6,Hardware
+A0011,Internal Memory,53,2,Hardware
+A0012,Internal Memory,53,7,Hardware
+A0013,Internal Memory,53,8,Hardware
+A0014,Internal Memory,53,7,Hardware
+A0015,Internal Memory,53,9,Hardware
+A0016,Internal Memory,53,3,Hardware
+A0017,Internal Memory,53,3,Hardware
+A0018,Internal Memory,53,8,Hardware
+A0019,Internal Memory,53,7,Hardware
+A0020,Internal Memory,53,7,Hardware
+A0021,Internal Memory,53,6,Hardware
+A0022,Internal Memory,53,6,Hardware
+A0023,Internal Memory,53,9,Hardware
+A0024,Internal Memory,53,0,Hardware
+A0025,Internal Memory,53,0,Hardware
+A0026,Internal Memory,53,6,Hardware
+A0027,Internal Memory,53,5,Hardware
+A0028,Internal Memory,53,8,Hardware
+A0029,Internal Memory,53,0,Hardware
+A0030,Internal Memory,53,0,Hardware
+A0031,Internal Memory,53,8,Hardware
+A0032,Internal Memory,53,3,Hardware
+A0033,Internal Memory,53,6,Hardware
+A0034,Internal Memory,53,5,Hardware
+A0035,Internal Memory,53,3,Hardware
+A0036,Internal Memory,53,9,Hardware
+A0037,Internal Memory,53,6,Hardware
+A0038,Internal Memory,53,1,Hardware
+A0039,Internal Memory,53,8,Hardware
+A0040,Internal Memory,53,2,Hardware
+A0041,Internal Memory,53,5,Hardware
+A0042,Internal Memory,53,2,Hardware
+A0043,Internal Memory,53,7,Hardware
+A0044,Internal Memory,53,8,Hardware
+A0045,Internal Memory,53,6,Hardware
+A0046,Internal Memory,53,0,Hardware
+A0047,Internal Memory,53,5,Hardware
+A0048,Internal Memory,53,0,Hardware
+A0049,Internal Memory,53,9,Hardware
+A0050,Internal Memory,53,9,Hardware
+A0051,Internal Memory,53,8,Hardware
+A0052,Internal Memory,53,6,Hardware
+A0053,Internal Memory,53,2,Hardware
+A0054,Internal Memory,53,4,Hardware
+A0055,Internal Memory,53,2,Hardware
+A0056,Internal Memory,53,0,Hardware
+A0057,Internal Memory,53,9,Hardware
+A0058,Internal Memory,53,6,Hardware
+A0059,Internal Memory,53,9,Hardware
+A0060,Internal Memory,53,7,Hardware
+A0061,Internal Memory,53,10,Hardware
+A0062,Internal Memory,53,6,Hardware
+A0063,Internal Memory,53,3,Hardware
+A0064,Internal Memory,53,7,Hardware
+A0065,Internal Memory,53,10,Hardware
+A0066,Internal Memory,53,0,Hardware
+A0067,Internal Memory,53,4,Hardware
+A0068,Internal Memory,53,0,Hardware
+A0069,Internal Memory,53,7,Hardware
+A0070,Internal Memory,53,4,Hardware
+A0071,Internal Memory,53,5,Hardware
+A0072,Internal Memory,53,5,Hardware
+A0073,Internal Memory,53,0,Hardware
+A0074,Internal Memory,53,10,Hardware
+A0075,Internal Memory,53,0,Hardware
+A0076,Internal Memory,53,3,Hardware
+A0077,Internal Memory,53,5,Hardware
+A0078,Internal Memory,53,6,Hardware
+A0079,Internal Memory,53,3,Hardware
+A0080,Internal Memory,53,9,Hardware
+A0081,Internal Memory,53,10,Hardware
+A0082,Internal Memory,53,6,Hardware
+A0083,Internal Memory,53,8,Hardware
+A0084,Internal Memory,53,6,Hardware
+A0085,Internal Memory,53,7,Hardware
+A0086,Internal Memory,53,8,Hardware
+A0087,Internal Memory,53,2,Hardware
+A0088,Internal Memory,53,0,Hardware
+A0089,Internal Memory,53,9,Hardware
+A0090,Internal Memory,53,1,Hardware
+A0091,Internal Memory,53,1,Hardware
+A0092,Internal Memory,53,7,Hardware
+A0093,Internal Memory,53,4,Hardware
+A0094,Internal Memory,53,1,Hardware
+A0095,Internal Memory,53,0,Hardware
+A0096,Internal Memory,53,10,Hardware
+A0097,Internal Memory,53,7,Hardware
+A0098,Internal Memory,53,10,Hardware
+A0099,Internal Memory,53,1,Hardware
+A0100,Internal Memory,53,5,Hardware
+A0001,Talk Time,7,2,Software
+A0002,Talk Time,7,7,Software
+A0003,Talk Time,7,6,Software
+A0004,Talk Time,7,8,Software
+A0005,Talk Time,7,4,Software
+A0006,Talk Time,7,8,Software
+A0007,Talk Time,7,3,Software
+A0008,Talk Time,7,9,Software
+A0009,Talk Time,7,10,Software
+A0010,Talk Time,7,10,Software
+A0011,Talk Time,7,6,Software
+A0012,Talk Time,7,5,Software
+A0013,Talk Time,7,2,Software
+A0014,Talk Time,7,1,Software
+A0015,Talk Time,7,9,Software
+A0016,Talk Time,7,2,Software
+A0017,Talk Time,7,8,Software
+A0018,Talk Time,7,2,Software
+A0019,Talk Time,7,6,Software
+A0020,Talk Time,7,8,Software
+A0021,Talk Time,7,5,Software
+A0022,Talk Time,7,4,Software
+A0023,Talk Time,7,9,Software
+A0024,Talk Time,7,9,Software
+A0025,Talk Time,7,3,Software
+A0026,Talk Time,7,3,Software
+A0027,Talk Time,7,4,Software
+A0028,Talk Time,7,6,Software
+A0029,Talk Time,7,3,Software
+A0030,Talk Time,7,10,Software
+A0031,Talk Time,7,3,Software
+A0032,Talk Time,7,4,Software
+A0033,Talk Time,7,2,Software
+A0034,Talk Time,7,5,Software
+A0035,Talk Time,7,6,Software
+A0036,Talk Time,7,4,Software
+A0037,Talk Time,7,7,Software
+A0038,Talk Time,7,1,Software
+A0039,Talk Time,7,9,Software
+A0040,Talk Time,7,3,Software
+A0041,Talk Time,7,2,Software
+A0042,Talk Time,7,3,Software
+A0043,Talk Time,7,6,Software
+A0044,Talk Time,7,7,Software
+A0045,Talk Time,7,10,Software
+A0046,Talk Time,7,0,Software
+A0047,Talk Time,7,0,Software
+A0048,Talk Time,7,4,Software
+A0049,Talk Time,7,1,Software
+A0050,Talk Time,7,6,Software
+A0051,Talk Time,7,7,Software
+A0052,Talk Time,7,3,Software
+A0053,Talk Time,7,6,Software
+A0054,Talk Time,7,8,Software
+A0055,Talk Time,7,7,Software
+A0056,Talk Time,7,1,Software
+A0057,Talk Time,7,2,Software
+A0058,Talk Time,7,0,Software
+A0059,Talk Time,7,7,Software
+A0060,Talk Time,7,1,Software
+A0061,Talk Time,7,8,Software
+A0062,Talk Time,7,5,Software
+A0063,Talk Time,7,1,Software
+A0064,Talk Time,7,8,Software
+A0065,Talk Time,7,4,Software
+A0066,Talk Time,7,3,Software
+A0067,Talk Time,7,9,Software
+A0068,Talk Time,7,1,Software
+A0069,Talk Time,7,5,Software
+A0070,Talk Time,7,4,Software
+A0071,Talk Time,7,4,Software
+A0072,Talk Time,7,7,Software
+A0073,Talk Time,7,7,Software
+A0074,Talk Time,7,1,Software
+A0075,Talk Time,7,8,Software
+A0076,Talk Time,7,9,Software
+A0077,Talk Time,7,7,Software
+A0078,Talk Time,7,5,Software
+A0079,Talk Time,7,5,Software
+A0080,Talk Time,7,10,Software
+A0081,Talk Time,7,10,Software
+A0082,Talk Time,7,1,Software
+A0083,Talk Time,7,7,Software
+A0084,Talk Time,7,2,Software
+A0085,Talk Time,7,6,Software
+A0086,Talk Time,7,7,Software
+A0087,Talk Time,7,8,Software
+A0088,Talk Time,7,1,Software
+A0089,Talk Time,7,4,Software
+A0090,Talk Time,7,1,Software
+A0091,Talk Time,7,7,Software
+A0092,Talk Time,7,8,Software
+A0093,Talk Time,7,7,Software
+A0094,Talk Time,7,6,Software
+A0095,Talk Time,7,2,Software
+A0096,Talk Time,7,3,Software
+A0097,Talk Time,7,6,Software
+A0098,Talk Time,7,4,Software
+A0099,Talk Time,7,0,Software
+A0100,Talk Time,7,6,Software
+A0001,Clock Speed,0.5,6,Hardware
+A0002,Clock Speed,0.5,4,Hardware
+A0003,Clock Speed,0.5,2,Hardware
+A0004,Clock Speed,0.5,1,Hardware
+A0005,Clock Speed,0.5,3,Hardware
+A0006,Clock Speed,0.5,7,Hardware
+A0007,Clock Speed,0.5,1,Hardware
+A0008,Clock Speed,0.5,8,Hardware
+A0009,Clock Speed,0.5,2,Hardware
+A0010,Clock Speed,0.5,6,Hardware
+A0011,Clock Speed,0.5,2,Hardware
+A0012,Clock Speed,0.5,4,Hardware
+A0013,Clock Speed,0.5,3,Hardware
+A0014,Clock Speed,0.5,1,Hardware
+A0015,Clock Speed,0.5,1,Hardware
+A0016,Clock Speed,0.5,5,Hardware
+A0017,Clock Speed,0.5,8,Hardware
+A0018,Clock Speed,0.5,9,Hardware
+A0019,Clock Speed,0.5,6,Hardware
+A0020,Clock Speed,0.5,7,Hardware
+A0021,Clock Speed,0.5,7,Hardware
+A0022,Clock Speed,0.5,4,Hardware
+A0023,Clock Speed,0.5,10,Hardware
+A0024,Clock Speed,0.5,1,Hardware
+A0025,Clock Speed,0.5,5,Hardware
+A0026,Clock Speed,0.5,1,Hardware
+A0027,Clock Speed,0.5,1,Hardware
+A0028,Clock Speed,0.5,10,Hardware
+A0029,Clock Speed,0.5,1,Hardware
+A0030,Clock Speed,0.5,10,Hardware
+A0031,Clock Speed,0.5,9,Hardware
+A0032,Clock Speed,0.5,5,Hardware
+A0033,Clock Speed,0.5,0,Hardware
+A0034,Clock Speed,0.5,5,Hardware
+A0035,Clock Speed,0.5,0,Hardware
+A0036,Clock Speed,0.5,6,Hardware
+A0037,Clock Speed,0.5,5,Hardware
+A0038,Clock Speed,0.5,3,Hardware
+A0039,Clock Speed,0.5,5,Hardware
+A0040,Clock Speed,0.5,8,Hardware
+A0041,Clock Speed,0.5,7,Hardware
+A0042,Clock Speed,0.5,10,Hardware
+A0043,Clock Speed,0.5,10,Hardware
+A0044,Clock Speed,0.5,6,Hardware
+A0045,Clock Speed,0.5,1,Hardware
+A0046,Clock Speed,0.5,8,Hardware
+A0047,Clock Speed,0.5,5,Hardware
+A0048,Clock Speed,0.5,1,Hardware
+A0049,Clock Speed,0.5,2,Hardware
+A0050,Clock Speed,0.5,5,Hardware
+A0051,Clock Speed,0.5,1,Hardware
+A0052,Clock Speed,0.5,3,Hardware
+A0053,Clock Speed,0.5,9,Hardware
+A0054,Clock Speed,0.5,0,Hardware
+A0055,Clock Speed,0.5,7,Hardware
+A0056,Clock Speed,0.5,9,Hardware
+A0057,Clock Speed,0.5,10,Hardware
+A0058,Clock Speed,0.5,1,Hardware
+A0059,Clock Speed,0.5,2,Hardware
+A0060,Clock Speed,0.5,5,Hardware
+A0061,Clock Speed,0.5,2,Hardware
+A0062,Clock Speed,0.5,0,Hardware
+A0063,Clock Speed,0.5,3,Hardware
+A0064,Clock Speed,0.5,5,Hardware
+A0065,Clock Speed,0.5,3,Hardware
+A0066,Clock Speed,0.5,8,Hardware
+A0067,Clock Speed,0.5,0,Hardware
+A0068,Clock Speed,0.5,2,Hardware
+A0069,Clock Speed,0.5,4,Hardware
+A0070,Clock Speed,0.5,6,Hardware
+A0071,Clock Speed,0.5,6,Hardware
+A0072,Clock Speed,0.5,5,Hardware
+A0073,Clock Speed,0.5,8,Hardware
+A0074,Clock Speed,0.5,9,Hardware
+A0075,Clock Speed,0.5,10,Hardware
+A0076,Clock Speed,0.5,1,Hardware
+A0077,Clock Speed,0.5,8,Hardware
+A0078,Clock Speed,0.5,7,Hardware
+A0079,Clock Speed,0.5,10,Hardware
+A0080,Clock Speed,0.5,4,Hardware
+A0081,Clock Speed,0.5,1,Hardware
+A0082,Clock Speed,0.5,10,Hardware
+A0083,Clock Speed,0.5,10,Hardware
+A0084,Clock Speed,0.5,1,Hardware
+A0085,Clock Speed,0.5,10,Hardware
+A0086,Clock Speed,0.5,0,Hardware
+A0087,Clock Speed,0.5,9,Hardware
+A0088,Clock Speed,0.5,6,Hardware
+A0089,Clock Speed,0.5,8,Hardware
+A0090,Clock Speed,0.5,3,Hardware
+A0091,Clock Speed,0.5,10,Hardware
+A0092,Clock Speed,0.5,1,Hardware
+A0093,Clock Speed,0.5,9,Hardware
+A0094,Clock Speed,0.5,4,Hardware
+A0095,Clock Speed,0.5,2,Hardware
+A0096,Clock Speed,0.5,4,Hardware
+A0097,Clock Speed,0.5,3,Hardware
+A0098,Clock Speed,0.5,8,Hardware
+A0099,Clock Speed,0.5,10,Hardware
+A0100,Clock Speed,0.5,3,Hardware
+A0001,Primary Camera,12MP,3,Hardware
+A0002,Primary Camera,12MP,8,Hardware
+A0003,Primary Camera,12MP,2,Hardware
+A0004,Primary Camera,12MP,9,Hardware
+A0005,Primary Camera,12MP,2,Hardware
+A0006,Primary Camera,12MP,9,Hardware
+A0007,Primary Camera,12MP,8,Hardware
+A0008,Primary Camera,12MP,0,Hardware
+A0009,Primary Camera,12MP,3,Hardware
+A0010,Primary Camera,12MP,6,Hardware
+A0011,Primary Camera,12MP,4,Hardware
+A0012,Primary Camera,12MP,5,Hardware
+A0013,Primary Camera,12MP,4,Hardware
+A0014,Primary Camera,12MP,7,Hardware
+A0015,Primary Camera,12MP,0,Hardware
+A0016,Primary Camera,12MP,1,Hardware
+A0017,Primary Camera,12MP,3,Hardware
+A0018,Primary Camera,12MP,8,Hardware
+A0019,Primary Camera,12MP,7,Hardware
+A0020,Primary Camera,12MP,7,Hardware
+A0021,Primary Camera,12MP,8,Hardware
+A0022,Primary Camera,12MP,4,Hardware
+A0023,Primary Camera,12MP,5,Hardware
+A0024,Primary Camera,12MP,8,Hardware
+A0025,Primary Camera,12MP,9,Hardware
+A0026,Primary Camera,12MP,1,Hardware
+A0027,Primary Camera,12MP,8,Hardware
+A0028,Primary Camera,12MP,8,Hardware
+A0029,Primary Camera,12MP,2,Hardware
+A0030,Primary Camera,12MP,0,Hardware
+A0031,Primary Camera,12MP,8,Hardware
+A0032,Primary Camera,12MP,10,Hardware
+A0033,Primary Camera,12MP,7,Hardware
+A0034,Primary Camera,12MP,5,Hardware
+A0035,Primary Camera,12MP,8,Hardware
+A0036,Primary Camera,12MP,10,Hardware
+A0037,Primary Camera,12MP,0,Hardware
+A0038,Primary Camera,12MP,3,Hardware
+A0039,Primary Camera,12MP,8,Hardware
+A0040,Primary Camera,12MP,7,Hardware
+A0041,Primary Camera,12MP,3,Hardware
+A0042,Primary Camera,12MP,6,Hardware
+A0043,Primary Camera,12MP,8,Hardware
+A0044,Primary Camera,12MP,1,Hardware
+A0045,Primary Camera,12MP,7,Hardware
+A0046,Primary Camera,12MP,3,Hardware
+A0047,Primary Camera,12MP,6,Hardware
+A0048,Primary Camera,12MP,3,Hardware
+A0049,Primary Camera,12MP,3,Hardware
+A0050,Primary Camera,12MP,10,Hardware
+A0051,Primary Camera,12MP,7,Hardware
+A0052,Primary Camera,12MP,10,Hardware
+A0053,Primary Camera,12MP,10,Hardware
+A0054,Primary Camera,12MP,0,Hardware
+A0055,Primary Camera,12MP,10,Hardware
+A0056,Primary Camera,12MP,3,Hardware
+A0057,Primary Camera,12MP,4,Hardware
+A0058,Primary Camera,12MP,4,Hardware
+A0059,Primary Camera,12MP,1,Hardware
+A0060,Primary Camera,12MP,0,Hardware
+A0061,Primary Camera,12MP,4,Hardware
+A0062,Primary Camera,12MP,4,Hardware
+A0063,Primary Camera,12MP,5,Hardware
+A0064,Primary Camera,12MP,5,Hardware
+A0065,Primary Camera,12MP,3,Hardware
+A0066,Primary Camera,12MP,9,Hardware
+A0067,Primary Camera,12MP,6,Hardware
+A0068,Primary Camera,12MP,3,Hardware
+A0069,Primary Camera,12MP,4,Hardware
+A0070,Primary Camera,12MP,1,Hardware
+A0071,Primary Camera,12MP,5,Hardware
+A0072,Primary Camera,12MP,3,Hardware
+A0073,Primary Camera,12MP,0,Hardware
+A0074,Primary Camera,12MP,0,Hardware
+A0075,Primary Camera,12MP,8,Hardware
+A0076,Primary Camera,12MP,1,Hardware
+A0077,Primary Camera,12MP,2,Hardware
+A0078,Primary Camera,12MP,2,Hardware
+A0079,Primary Camera,12MP,6,Hardware
+A0080,Primary Camera,12MP,9,Hardware
+A0081,Primary Camera,12MP,1,Hardware
+A0082,Primary Camera,12MP,7,Hardware
+A0083,Primary Camera,12MP,2,Hardware
+A0084,Primary Camera,12MP,4,Hardware
+A0085,Primary Camera,12MP,9,Hardware
+A0086,Primary Camera,12MP,8,Hardware
+A0087,Primary Camera,12MP,5,Hardware
+A0088,Primary Camera,12MP,6,Hardware
+A0089,Primary Camera,12MP,0,Hardware
+A0090,Primary Camera,12MP,10,Hardware
+A0091,Primary Camera,12MP,8,Hardware
+A0092,Primary Camera,12MP,4,Hardware
+A0093,Primary Camera,12MP,7,Hardware
+A0094,Primary Camera,12MP,5,Hardware
+A0095,Primary Camera,12MP,0,Hardware
+A0096,Primary Camera,12MP,10,Hardware
+A0097,Primary Camera,12MP,10,Hardware
+A0098,Primary Camera,12MP,8,Hardware
+A0099,Primary Camera,12MP,0,Hardware
+A0100,Primary Camera,12MP,2,Hardware
+A0001,Secondary Camera,48MP,9,Hardware
+A0002,Secondary Camera,48MP,7,Hardware
+A0003,Secondary Camera,48MP,7,Hardware
+A0004,Secondary Camera,48MP,6,Hardware
+A0005,Secondary Camera,48MP,1,Hardware
+A0006,Secondary Camera,48MP,0,Hardware
+A0007,Secondary Camera,48MP,7,Hardware
+A0008,Secondary Camera,48MP,5,Hardware
+A0009,Secondary Camera,48MP,6,Hardware
+A0010,Secondary Camera,48MP,6,Hardware
+A0011,Secondary Camera,48MP,7,Hardware
+A0012,Secondary Camera,48MP,7,Hardware
+A0013,Secondary Camera,48MP,3,Hardware
+A0014,Secondary Camera,48MP,2,Hardware
+A0015,Secondary Camera,48MP,10,Hardware
+A0016,Secondary Camera,48MP,1,Hardware
+A0017,Secondary Camera,48MP,1,Hardware
+A0018,Secondary Camera,48MP,6,Hardware
+A0019,Secondary Camera,48MP,1,Hardware
+A0020,Secondary Camera,48MP,9,Hardware
+A0021,Secondary Camera,48MP,7,Hardware
+A0022,Secondary Camera,48MP,4,Hardware
+A0023,Secondary Camera,48MP,9,Hardware
+A0024,Secondary Camera,48MP,0,Hardware
+A0025,Secondary Camera,48MP,5,Hardware
+A0026,Secondary Camera,48MP,0,Hardware
+A0027,Secondary Camera,48MP,0,Hardware
+A0028,Secondary Camera,48MP,6,Hardware
+A0029,Secondary Camera,48MP,1,Hardware
+A0030,Secondary Camera,48MP,3,Hardware
+A0031,Secondary Camera,48MP,0,Hardware
+A0032,Secondary Camera,48MP,5,Hardware
+A0033,Secondary Camera,48MP,3,Hardware
+A0034,Secondary Camera,48MP,3,Hardware
+A0035,Secondary Camera,48MP,0,Hardware
+A0036,Secondary Camera,48MP,1,Hardware
+A0037,Secondary Camera,48MP,7,Hardware
+A0038,Secondary Camera,48MP,3,Hardware
+A0039,Secondary Camera,48MP,8,Hardware
+A0040,Secondary Camera,48MP,7,Hardware
+A0041,Secondary Camera,48MP,1,Hardware
+A0042,Secondary Camera,48MP,5,Hardware
+A0043,Secondary Camera,48MP,6,Hardware
+A0044,Secondary Camera,48MP,2,Hardware
+A0045,Secondary Camera,48MP,8,Hardware
+A0046,Secondary Camera,48MP,9,Hardware
+A0047,Secondary Camera,48MP,4,Hardware
+A0048,Secondary Camera,48MP,6,Hardware
+A0049,Secondary Camera,48MP,6,Hardware
+A0050,Secondary Camera,48MP,2,Hardware
+A0051,Secondary Camera,48MP,4,Hardware
+A0052,Secondary Camera,48MP,8,Hardware
+A0053,Secondary Camera,48MP,7,Hardware
+A0054,Secondary Camera,48MP,10,Hardware
+A0055,Secondary Camera,48MP,10,Hardware
+A0056,Secondary Camera,48MP,1,Hardware
+A0057,Secondary Camera,48MP,8,Hardware
+A0058,Secondary Camera,48MP,7,Hardware
+A0059,Secondary Camera,48MP,2,Hardware
+A0060,Secondary Camera,48MP,5,Hardware
+A0061,Secondary Camera,48MP,7,Hardware
+A0062,Secondary Camera,48MP,1,Hardware
+A0063,Secondary Camera,48MP,10,Hardware
+A0064,Secondary Camera,48MP,9,Hardware
+A0065,Secondary Camera,48MP,8,Hardware
+A0066,Secondary Camera,48MP,5,Hardware
+A0067,Secondary Camera,48MP,1,Hardware
+A0068,Secondary Camera,48MP,7,Hardware
+A0069,Secondary Camera,48MP,1,Hardware
+A0070,Secondary Camera,48MP,9,Hardware
+A0071,Secondary Camera,48MP,10,Hardware
+A0072,Secondary Camera,48MP,3,Hardware
+A0073,Secondary Camera,48MP,5,Hardware
+A0074,Secondary Camera,48MP,0,Hardware
+A0075,Secondary Camera,48MP,10,Hardware
+A0076,Secondary Camera,48MP,8,Hardware
+A0077,Secondary Camera,48MP,4,Hardware
+A0078,Secondary Camera,48MP,0,Hardware
+A0079,Secondary Camera,48MP,6,Hardware
+A0080,Secondary Camera,48MP,5,Hardware
+A0081,Secondary Camera,48MP,2,Hardware
+A0082,Secondary Camera,48MP,7,Hardware
+A0083,Secondary Camera,48MP,1,Hardware
+A0084,Secondary Camera,48MP,10,Hardware
+A0085,Secondary Camera,48MP,5,Hardware
+A0086,Secondary Camera,48MP,10,Hardware
+A0087,Secondary Camera,48MP,2,Hardware
+A0088,Secondary Camera,48MP,5,Hardware
+A0089,Secondary Camera,48MP,7,Hardware
+A0090,Secondary Camera,48MP,9,Hardware
+A0091,Secondary Camera,48MP,2,Hardware
+A0092,Secondary Camera,48MP,0,Hardware
+A0093,Secondary Camera,48MP,8,Hardware
+A0094,Secondary Camera,48MP,9,Hardware
+A0095,Secondary Camera,48MP,9,Hardware
+A0096,Secondary Camera,48MP,7,Hardware
+A0097,Secondary Camera,48MP,3,Hardware
+A0098,Secondary Camera,48MP,9,Hardware
+A0099,Secondary Camera,48MP,4,Hardware
+A0100,Secondary Camera,48MP,8,Hardware
+A0001,Battery Power,1021,10,Hardware
+A0002,Battery Power,1021,0,Hardware
+A0003,Battery Power,1021,9,Hardware
+A0004,Battery Power,1021,3,Hardware
+A0005,Battery Power,1021,4,Hardware
+A0006,Battery Power,1021,1,Hardware
+A0007,Battery Power,1021,0,Hardware
+A0008,Battery Power,1021,2,Hardware
+A0009,Battery Power,1021,4,Hardware
+A0010,Battery Power,1021,9,Hardware
+A0011,Battery Power,1021,1,Hardware
+A0012,Battery Power,1021,8,Hardware
+A0013,Battery Power,1021,8,Hardware
+A0014,Battery Power,1021,8,Hardware
+A0015,Battery Power,1021,1,Hardware
+A0016,Battery Power,1021,4,Hardware
+A0017,Battery Power,1021,3,Hardware
+A0018,Battery Power,1021,4,Hardware
+A0019,Battery Power,1021,10,Hardware
+A0020,Battery Power,1021,5,Hardware
+A0021,Battery Power,1021,1,Hardware
+A0022,Battery Power,1021,4,Hardware
+A0023,Battery Power,1021,6,Hardware
+A0024,Battery Power,1021,0,Hardware
+A0025,Battery Power,1021,0,Hardware
+A0026,Battery Power,1021,3,Hardware
+A0027,Battery Power,1021,3,Hardware
+A0028,Battery Power,1021,3,Hardware
+A0029,Battery Power,1021,2,Hardware
+A0030,Battery Power,1021,2,Hardware
+A0031,Battery Power,1021,9,Hardware
+A0032,Battery Power,1021,4,Hardware
+A0033,Battery Power,1021,10,Hardware
+A0034,Battery Power,1021,8,Hardware
+A0035,Battery Power,1021,7,Hardware
+A0036,Battery Power,1021,9,Hardware
+A0037,Battery Power,1021,8,Hardware
+A0038,Battery Power,1021,3,Hardware
+A0039,Battery Power,1021,10,Hardware
+A0040,Battery Power,1021,2,Hardware
+A0041,Battery Power,1021,9,Hardware
+A0042,Battery Power,1021,6,Hardware
+A0043,Battery Power,1021,3,Hardware
+A0044,Battery Power,1021,8,Hardware
+A0045,Battery Power,1021,6,Hardware
+A0046,Battery Power,1021,2,Hardware
+A0047,Battery Power,1021,4,Hardware
+A0048,Battery Power,1021,0,Hardware
+A0049,Battery Power,1021,8,Hardware
+A0050,Battery Power,1021,3,Hardware
+A0051,Battery Power,1021,10,Hardware
+A0052,Battery Power,1021,0,Hardware
+A0053,Battery Power,1021,9,Hardware
+A0054,Battery Power,1021,2,Hardware
+A0055,Battery Power,1021,10,Hardware
+A0056,Battery Power,1021,3,Hardware
+A0057,Battery Power,1021,1,Hardware
+A0058,Battery Power,1021,10,Hardware
+A0059,Battery Power,1021,9,Hardware
+A0060,Battery Power,1021,0,Hardware
+A0061,Battery Power,1021,7,Hardware
+A0062,Battery Power,1021,5,Hardware
+A0063,Battery Power,1021,3,Hardware
+A0064,Battery Power,1021,0,Hardware
+A0065,Battery Power,1021,1,Hardware
+A0066,Battery Power,1021,4,Hardware
+A0067,Battery Power,1021,3,Hardware
+A0068,Battery Power,1021,6,Hardware
+A0069,Battery Power,1021,3,Hardware
+A0070,Battery Power,1021,10,Hardware
+A0071,Battery Power,1021,3,Hardware
+A0072,Battery Power,1021,5,Hardware
+A0073,Battery Power,1021,6,Hardware
+A0074,Battery Power,1021,0,Hardware
+A0075,Battery Power,1021,10,Hardware
+A0076,Battery Power,1021,7,Hardware
+A0077,Battery Power,1021,1,Hardware
+A0078,Battery Power,1021,0,Hardware
+A0079,Battery Power,1021,4,Hardware
+A0080,Battery Power,1021,7,Hardware
+A0081,Battery Power,1021,3,Hardware
+A0082,Battery Power,1021,9,Hardware
+A0083,Battery Power,1021,0,Hardware
+A0084,Battery Power,1021,5,Hardware
+A0085,Battery Power,1021,7,Hardware
+A0086,Battery Power,1021,6,Hardware
+A0087,Battery Power,1021,6,Hardware
+A0088,Battery Power,1021,2,Hardware
+A0089,Battery Power,1021,7,Hardware
+A0090,Battery Power,1021,3,Hardware
+A0091,Battery Power,1021,10,Hardware
+A0092,Battery Power,1021,7,Hardware
+A0093,Battery Power,1021,10,Hardware
+A0094,Battery Power,1021,7,Hardware
+A0095,Battery Power,1021,2,Hardware
+A0096,Battery Power,1021,8,Hardware
+A0097,Battery Power,1021,8,Hardware
+A0098,Battery Power,1021,0,Hardware
+A0099,Battery Power,1021,8,Hardware
+A0100,Battery Power,1021,0,Hardware
+A0001,Bluetooth,Yes,9,Software
+A0002,Bluetooth,Yes,8,Software
+A0003,Bluetooth,Yes,3,Software
+A0004,Bluetooth,Yes,9,Software
+A0005,Bluetooth,Yes,2,Software
+A0006,Bluetooth,Yes,10,Software
+A0007,Bluetooth,Yes,3,Software
+A0008,Bluetooth,Yes,10,Software
+A0009,Bluetooth,Yes,0,Software
+A0010,Bluetooth,Yes,3,Software
+A0011,Bluetooth,Yes,4,Software
+A0012,Bluetooth,Yes,7,Software
+A0013,Bluetooth,Yes,6,Software
+A0014,Bluetooth,Yes,0,Software
+A0015,Bluetooth,Yes,8,Software
+A0016,Bluetooth,Yes,8,Software
+A0017,Bluetooth,Yes,8,Software
+A0018,Bluetooth,Yes,4,Software
+A0019,Bluetooth,Yes,5,Software
+A0020,Bluetooth,Yes,2,Software
+A0021,Bluetooth,Yes,1,Software
+A0022,Bluetooth,Yes,6,Software
+A0023,Bluetooth,Yes,7,Software
+A0024,Bluetooth,Yes,6,Software
+A0025,Bluetooth,Yes,8,Software
+A0026,Bluetooth,Yes,8,Software
+A0027,Bluetooth,Yes,8,Software
+A0028,Bluetooth,Yes,0,Software
+A0029,Bluetooth,Yes,6,Software
+A0030,Bluetooth,Yes,0,Software
+A0031,Bluetooth,Yes,10,Software
+A0032,Bluetooth,Yes,10,Software
+A0033,Bluetooth,Yes,3,Software
+A0034,Bluetooth,Yes,3,Software
+A0035,Bluetooth,Yes,5,Software
+A0036,Bluetooth,Yes,7,Software
+A0037,Bluetooth,Yes,2,Software
+A0038,Bluetooth,Yes,1,Software
+A0039,Bluetooth,Yes,7,Software
+A0040,Bluetooth,Yes,3,Software
+A0041,Bluetooth,Yes,2,Software
+A0042,Bluetooth,Yes,2,Software
+A0043,Bluetooth,Yes,0,Software
+A0044,Bluetooth,Yes,2,Software
+A0045,Bluetooth,Yes,5,Software
+A0046,Bluetooth,Yes,6,Software
+A0047,Bluetooth,Yes,10,Software
+A0048,Bluetooth,Yes,9,Software
+A0049,Bluetooth,Yes,9,Software
+A0050,Bluetooth,Yes,2,Software
+A0051,Bluetooth,Yes,1,Software
+A0052,Bluetooth,Yes,7,Software
+A0053,Bluetooth,Yes,4,Software
+A0054,Bluetooth,Yes,3,Software
+A0055,Bluetooth,Yes,8,Software
+A0056,Bluetooth,Yes,4,Software
+A0057,Bluetooth,Yes,1,Software
+A0058,Bluetooth,Yes,3,Software
+A0059,Bluetooth,Yes,7,Software
+A0060,Bluetooth,Yes,0,Software
+A0061,Bluetooth,Yes,6,Software
+A0062,Bluetooth,Yes,0,Software
+A0063,Bluetooth,Yes,2,Software
+A0064,Bluetooth,Yes,2,Software
+A0065,Bluetooth,Yes,10,Software
+A0066,Bluetooth,Yes,9,Software
+A0067,Bluetooth,Yes,6,Software
+A0068,Bluetooth,Yes,0,Software
+A0069,Bluetooth,Yes,0,Software
+A0070,Bluetooth,Yes,5,Software
+A0071,Bluetooth,Yes,2,Software
+A0072,Bluetooth,Yes,6,Software
+A0073,Bluetooth,Yes,8,Software
+A0074,Bluetooth,Yes,3,Software
+A0075,Bluetooth,Yes,4,Software
+A0076,Bluetooth,Yes,1,Software
+A0077,Bluetooth,Yes,4,Software
+A0078,Bluetooth,Yes,7,Software
+A0079,Bluetooth,Yes,1,Software
+A0080,Bluetooth,Yes,8,Software
+A0081,Bluetooth,Yes,4,Software
+A0082,Bluetooth,Yes,9,Software
+A0083,Bluetooth,Yes,2,Software
+A0084,Bluetooth,Yes,0,Software
+A0085,Bluetooth,Yes,9,Software
+A0086,Bluetooth,Yes,1,Software
+A0087,Bluetooth,Yes,7,Software
+A0088,Bluetooth,Yes,9,Software
+A0089,Bluetooth,Yes,6,Software
+A0090,Bluetooth,Yes,5,Software
+A0091,Bluetooth,Yes,0,Software
+A0092,Bluetooth,Yes,1,Software
+A0093,Bluetooth,Yes,7,Software
+A0094,Bluetooth,Yes,3,Software
+A0095,Bluetooth,Yes,3,Software
+A0096,Bluetooth,Yes,5,Software
+A0097,Bluetooth,Yes,0,Software
+A0098,Bluetooth,Yes,8,Software
+A0099,Bluetooth,Yes,3,Software
+A0100,Bluetooth,Yes,8,Software
+A0001,Cores,Triple-Core,1,Hardware
+A0002,Cores,Triple-Core,10,Hardware
+A0003,Cores,Triple-Core,7,Hardware
+A0004,Cores,Triple-Core,4,Hardware
+A0005,Cores,Triple-Core,1,Hardware
+A0006,Cores,Triple-Core,4,Hardware
+A0007,Cores,Triple-Core,3,Hardware
+A0008,Cores,Triple-Core,8,Hardware
+A0009,Cores,Triple-Core,0,Hardware
+A0010,Cores,Triple-Core,1,Hardware
+A0011,Cores,Triple-Core,6,Hardware
+A0012,Cores,Triple-Core,8,Hardware
+A0013,Cores,Triple-Core,4,Hardware
+A0014,Cores,Triple-Core,7,Hardware
+A0015,Cores,Triple-Core,5,Hardware
+A0016,Cores,Triple-Core,6,Hardware
+A0017,Cores,Triple-Core,4,Hardware
+A0018,Cores,Triple-Core,1,Hardware
+A0019,Cores,Triple-Core,2,Hardware
+A0020,Cores,Triple-Core,3,Hardware
+A0021,Cores,Triple-Core,3,Hardware
+A0022,Cores,Triple-Core,0,Hardware
+A0023,Cores,Triple-Core,5,Hardware
+A0024,Cores,Triple-Core,10,Hardware
+A0025,Cores,Triple-Core,7,Hardware
+A0026,Cores,Triple-Core,10,Hardware
+A0027,Cores,Triple-Core,9,Hardware
+A0028,Cores,Triple-Core,5,Hardware
+A0029,Cores,Triple-Core,10,Hardware
+A0030,Cores,Triple-Core,8,Hardware
+A0031,Cores,Triple-Core,5,Hardware
+A0032,Cores,Triple-Core,1,Hardware
+A0033,Cores,Triple-Core,3,Hardware
+A0034,Cores,Triple-Core,9,Hardware
+A0035,Cores,Triple-Core,5,Hardware
+A0036,Cores,Triple-Core,8,Hardware
+A0037,Cores,Triple-Core,6,Hardware
+A0038,Cores,Triple-Core,4,Hardware
+A0039,Cores,Triple-Core,7,Hardware
+A0040,Cores,Triple-Core,4,Hardware
+A0041,Cores,Triple-Core,9,Hardware
+A0042,Cores,Triple-Core,6,Hardware
+A0043,Cores,Triple-Core,3,Hardware
+A0044,Cores,Triple-Core,5,Hardware
+A0045,Cores,Triple-Core,4,Hardware
+A0046,Cores,Triple-Core,8,Hardware
+A0047,Cores,Triple-Core,10,Hardware
+A0048,Cores,Triple-Core,5,Hardware
+A0049,Cores,Triple-Core,2,Hardware
+A0050,Cores,Triple-Core,2,Hardware
+A0051,Cores,Triple-Core,7,Hardware
+A0052,Cores,Triple-Core,2,Hardware
+A0053,Cores,Triple-Core,1,Hardware
+A0054,Cores,Triple-Core,7,Hardware
+A0055,Cores,Triple-Core,0,Hardware
+A0056,Cores,Triple-Core,6,Hardware
+A0057,Cores,Triple-Core,10,Hardware
+A0058,Cores,Triple-Core,2,Hardware
+A0059,Cores,Triple-Core,2,Hardware
+A0060,Cores,Triple-Core,10,Hardware
+A0061,Cores,Triple-Core,1,Hardware
+A0062,Cores,Triple-Core,6,Hardware
+A0063,Cores,Triple-Core,3,Hardware
+A0064,Cores,Triple-Core,4,Hardware
+A0065,Cores,Triple-Core,3,Hardware
+A0066,Cores,Triple-Core,4,Hardware
+A0067,Cores,Triple-Core,5,Hardware
+A0068,Cores,Triple-Core,4,Hardware
+A0069,Cores,Triple-Core,4,Hardware
+A0070,Cores,Triple-Core,4,Hardware
+A0071,Cores,Triple-Core,1,Hardware
+A0072,Cores,Triple-Core,5,Hardware
+A0073,Cores,Triple-Core,8,Hardware
+A0074,Cores,Triple-Core,5,Hardware
+A0075,Cores,Triple-Core,4,Hardware
+A0076,Cores,Triple-Core,9,Hardware
+A0077,Cores,Triple-Core,6,Hardware
+A0078,Cores,Triple-Core,5,Hardware
+A0079,Cores,Triple-Core,2,Hardware
+A0080,Cores,Triple-Core,4,Hardware
+A0081,Cores,Triple-Core,4,Hardware
+A0082,Cores,Triple-Core,2,Hardware
+A0083,Cores,Triple-Core,10,Hardware
+A0084,Cores,Triple-Core,4,Hardware
+A0085,Cores,Triple-Core,8,Hardware
+A0086,Cores,Triple-Core,0,Hardware
+A0087,Cores,Triple-Core,4,Hardware
+A0088,Cores,Triple-Core,6,Hardware
+A0089,Cores,Triple-Core,1,Hardware
+A0090,Cores,Triple-Core,4,Hardware
+A0091,Cores,Triple-Core,0,Hardware
+A0092,Cores,Triple-Core,10,Hardware
+A0093,Cores,Triple-Core,8,Hardware
+A0094,Cores,Triple-Core,2,Hardware
+A0095,Cores,Triple-Core,9,Hardware
+A0096,Cores,Triple-Core,4,Hardware
+A0097,Cores,Triple-Core,6,Hardware
+A0098,Cores,Triple-Core,4,Hardware
+A0099,Cores,Triple-Core,8,Hardware
+A0100,Cores,Triple-Core,2,Hardware
+A0001,4G,Yes,4,Software
+A0002,4G,Yes,6,Software
+A0003,4G,Yes,8,Software
+A0004,4G,Yes,3,Software
+A0005,4G,Yes,9,Software
+A0006,4G,Yes,2,Software
+A0007,4G,Yes,4,Software
+A0008,4G,Yes,2,Software
+A0009,4G,Yes,6,Software
+A0010,4G,Yes,9,Software
+A0011,4G,Yes,1,Software
+A0012,4G,Yes,7,Software
+A0013,4G,Yes,6,Software
+A0014,4G,Yes,2,Software
+A0015,4G,Yes,3,Software
+A0016,4G,Yes,10,Software
+A0017,4G,Yes,6,Software
+A0018,4G,Yes,0,Software
+A0019,4G,Yes,10,Software
+A0020,4G,Yes,1,Software
+A0021,4G,Yes,2,Software
+A0022,4G,Yes,4,Software
+A0023,4G,Yes,0,Software
+A0024,4G,Yes,7,Software
+A0025,4G,Yes,0,Software
+A0026,4G,Yes,9,Software
+A0027,4G,Yes,2,Software
+A0028,4G,Yes,0,Software
+A0029,4G,Yes,5,Software
+A0030,4G,Yes,4,Software
+A0031,4G,Yes,10,Software
+A0032,4G,Yes,0,Software
+A0033,4G,Yes,5,Software
+A0034,4G,Yes,7,Software
+A0035,4G,Yes,2,Software
+A0036,4G,Yes,2,Software
+A0037,4G,Yes,3,Software
+A0038,4G,Yes,9,Software
+A0039,4G,Yes,1,Software
+A0040,4G,Yes,2,Software
+A0041,4G,Yes,9,Software
+A0042,4G,Yes,7,Software
+A0043,4G,Yes,9,Software
+A0044,4G,Yes,4,Software
+A0045,4G,Yes,8,Software
+A0046,4G,Yes,3,Software
+A0047,4G,Yes,4,Software
+A0048,4G,Yes,9,Software
+A0049,4G,Yes,3,Software
+A0050,4G,Yes,6,Software
+A0051,4G,Yes,6,Software
+A0052,4G,Yes,7,Software
+A0053,4G,Yes,2,Software
+A0054,4G,Yes,9,Software
+A0055,4G,Yes,0,Software
+A0056,4G,Yes,8,Software
+A0057,4G,Yes,5,Software
+A0058,4G,Yes,1,Software
+A0059,4G,Yes,4,Software
+A0060,4G,Yes,7,Software
+A0061,4G,Yes,0,Software
+A0062,4G,Yes,6,Software
+A0063,4G,Yes,2,Software
+A0064,4G,Yes,8,Software
+A0065,4G,Yes,0,Software
+A0066,4G,Yes,8,Software
+A0067,4G,Yes,9,Software
+A0068,4G,Yes,6,Software
+A0069,4G,Yes,0,Software
+A0070,4G,Yes,9,Software
+A0071,4G,Yes,5,Software
+A0072,4G,Yes,5,Software
+A0073,4G,Yes,1,Software
+A0074,4G,Yes,7,Software
+A0075,4G,Yes,3,Software
+A0076,4G,Yes,6,Software
+A0077,4G,Yes,1,Software
+A0078,4G,Yes,1,Software
+A0079,4G,Yes,1,Software
+A0080,4G,Yes,6,Software
+A0081,4G,Yes,7,Software
+A0082,4G,Yes,8,Software
+A0083,4G,Yes,8,Software
+A0084,4G,Yes,5,Software
+A0085,4G,Yes,8,Software
+A0086,4G,Yes,2,Software
+A0087,4G,Yes,2,Software
+A0088,4G,Yes,5,Software
+A0089,4G,Yes,0,Software
+A0090,4G,Yes,5,Software
+A0091,4G,Yes,4,Software
+A0092,4G,Yes,3,Software
+A0093,4G,Yes,10,Software
+A0094,4G,Yes,3,Software
+A0095,4G,Yes,5,Software
+A0096,4G,Yes,0,Software
+A0097,4G,Yes,0,Software
+A0098,4G,Yes,7,Software
+A0099,4G,Yes,1,Software
+A0100,4G,Yes,7,Software
+A0001,3G,Yes,8,Software
+A0002,3G,Yes,9,Software
+A0003,3G,Yes,3,Software
+A0004,3G,Yes,4,Software
+A0005,3G,Yes,5,Software
+A0006,3G,Yes,8,Software
+A0007,3G,Yes,10,Software
+A0008,3G,Yes,0,Software
+A0009,3G,Yes,4,Software
+A0010,3G,Yes,5,Software
+A0011,3G,Yes,10,Software
+A0012,3G,Yes,7,Software
+A0013,3G,Yes,1,Software
+A0014,3G,Yes,7,Software
+A0015,3G,Yes,7,Software
+A0016,3G,Yes,5,Software
+A0017,3G,Yes,10,Software
+A0018,3G,Yes,8,Software
+A0019,3G,Yes,10,Software
+A0020,3G,Yes,4,Software
+A0021,3G,Yes,2,Software
+A0022,3G,Yes,5,Software
+A0023,3G,Yes,9,Software
+A0024,3G,Yes,9,Software
+A0025,3G,Yes,9,Software
+A0026,3G,Yes,4,Software
+A0027,3G,Yes,7,Software
+A0028,3G,Yes,5,Software
+A0029,3G,Yes,2,Software
+A0030,3G,Yes,9,Software
+A0031,3G,Yes,3,Software
+A0032,3G,Yes,8,Software
+A0033,3G,Yes,0,Software
+A0034,3G,Yes,5,Software
+A0035,3G,Yes,9,Software
+A0036,3G,Yes,8,Software
+A0037,3G,Yes,4,Software
+A0038,3G,Yes,4,Software
+A0039,3G,Yes,7,Software
+A0040,3G,Yes,3,Software
+A0041,3G,Yes,9,Software
+A0042,3G,Yes,2,Software
+A0043,3G,Yes,3,Software
+A0044,3G,Yes,2,Software
+A0045,3G,Yes,8,Software
+A0046,3G,Yes,9,Software
+A0047,3G,Yes,9,Software
+A0048,3G,Yes,4,Software
+A0049,3G,Yes,5,Software
+A0050,3G,Yes,2,Software
+A0051,3G,Yes,7,Software
+A0052,3G,Yes,5,Software
+A0053,3G,Yes,0,Software
+A0054,3G,Yes,2,Software
+A0055,3G,Yes,1,Software
+A0056,3G,Yes,5,Software
+A0057,3G,Yes,6,Software
+A0058,3G,Yes,3,Software
+A0059,3G,Yes,9,Software
+A0060,3G,Yes,7,Software
+A0061,3G,Yes,1,Software
+A0062,3G,Yes,5,Software
+A0063,3G,Yes,0,Software
+A0064,3G,Yes,2,Software
+A0065,3G,Yes,9,Software
+A0066,3G,Yes,4,Software
+A0067,3G,Yes,8,Software
+A0068,3G,Yes,4,Software
+A0069,3G,Yes,3,Software
+A0070,3G,Yes,2,Software
+A0071,3G,Yes,1,Software
+A0072,3G,Yes,3,Software
+A0073,3G,Yes,3,Software
+A0074,3G,Yes,4,Software
+A0075,3G,Yes,9,Software
+A0076,3G,Yes,8,Software
+A0077,3G,Yes,3,Software
+A0078,3G,Yes,5,Software
+A0079,3G,Yes,2,Software
+A0080,3G,Yes,3,Software
+A0081,3G,Yes,8,Software
+A0082,3G,Yes,8,Software
+A0083,3G,Yes,6,Software
+A0084,3G,Yes,0,Software
+A0085,3G,Yes,6,Software
+A0086,3G,Yes,4,Software
+A0087,3G,Yes,6,Software
+A0088,3G,Yes,8,Software
+A0089,3G,Yes,10,Software
+A0090,3G,Yes,8,Software
+A0091,3G,Yes,5,Software
+A0092,3G,Yes,7,Software
+A0093,3G,Yes,6,Software
+A0094,3G,Yes,9,Software
+A0095,3G,Yes,3,Software
+A0096,3G,Yes,0,Software
+A0097,3G,Yes,1,Software
+A0098,3G,Yes,10,Software
+A0099,3G,Yes,1,Software
+A0100,3G,Yes,8,Software
+A0001,Mobile Weight,136,1,Hardware
+A0002,Mobile Weight,136,7,Hardware
+A0003,Mobile Weight,136,10,Hardware
+A0004,Mobile Weight,136,9,Hardware
+A0005,Mobile Weight,136,8,Hardware
+A0006,Mobile Weight,136,1,Hardware
+A0007,Mobile Weight,136,6,Hardware
+A0008,Mobile Weight,136,10,Hardware
+A0009,Mobile Weight,136,3,Hardware
+A0010,Mobile Weight,136,5,Hardware
+A0011,Mobile Weight,136,7,Hardware
+A0012,Mobile Weight,136,8,Hardware
+A0013,Mobile Weight,136,8,Hardware
+A0014,Mobile Weight,136,2,Hardware
+A0015,Mobile Weight,136,10,Hardware
+A0016,Mobile Weight,136,5,Hardware
+A0017,Mobile Weight,136,0,Hardware
+A0018,Mobile Weight,136,0,Hardware
+A0019,Mobile Weight,136,7,Hardware
+A0020,Mobile Weight,136,1,Hardware
+A0021,Mobile Weight,136,9,Hardware
+A0022,Mobile Weight,136,8,Hardware
+A0023,Mobile Weight,136,7,Hardware
+A0024,Mobile Weight,136,10,Hardware
+A0025,Mobile Weight,136,0,Hardware
+A0026,Mobile Weight,136,4,Hardware
+A0027,Mobile Weight,136,1,Hardware
+A0028,Mobile Weight,136,7,Hardware
+A0029,Mobile Weight,136,9,Hardware
+A0030,Mobile Weight,136,2,Hardware
+A0031,Mobile Weight,136,9,Hardware
+A0032,Mobile Weight,136,7,Hardware
+A0033,Mobile Weight,136,3,Hardware
+A0034,Mobile Weight,136,0,Hardware
+A0035,Mobile Weight,136,0,Hardware
+A0036,Mobile Weight,136,5,Hardware
+A0037,Mobile Weight,136,7,Hardware
+A0038,Mobile Weight,136,10,Hardware
+A0039,Mobile Weight,136,6,Hardware
+A0040,Mobile Weight,136,2,Hardware
+A0041,Mobile Weight,136,3,Hardware
+A0042,Mobile Weight,136,6,Hardware
+A0043,Mobile Weight,136,4,Hardware
+A0044,Mobile Weight,136,0,Hardware
+A0045,Mobile Weight,136,0,Hardware
+A0046,Mobile Weight,136,4,Hardware
+A0047,Mobile Weight,136,4,Hardware
+A0048,Mobile Weight,136,7,Hardware
+A0049,Mobile Weight,136,6,Hardware
+A0050,Mobile Weight,136,5,Hardware
+A0051,Mobile Weight,136,6,Hardware
+A0052,Mobile Weight,136,6,Hardware
+A0053,Mobile Weight,136,3,Hardware
+A0054,Mobile Weight,136,3,Hardware
+A0055,Mobile Weight,136,5,Hardware
+A0056,Mobile Weight,136,7,Hardware
+A0057,Mobile Weight,136,3,Hardware
+A0058,Mobile Weight,136,10,Hardware
+A0059,Mobile Weight,136,6,Hardware
+A0060,Mobile Weight,136,7,Hardware
+A0061,Mobile Weight,136,0,Hardware
+A0062,Mobile Weight,136,3,Hardware
+A0063,Mobile Weight,136,1,Hardware
+A0064,Mobile Weight,136,4,Hardware
+A0065,Mobile Weight,136,5,Hardware
+A0066,Mobile Weight,136,2,Hardware
+A0067,Mobile Weight,136,2,Hardware
+A0068,Mobile Weight,136,2,Hardware
+A0069,Mobile Weight,136,1,Hardware
+A0070,Mobile Weight,136,6,Hardware
+A0071,Mobile Weight,136,4,Hardware
+A0072,Mobile Weight,136,5,Hardware
+A0073,Mobile Weight,136,4,Hardware
+A0074,Mobile Weight,136,9,Hardware
+A0075,Mobile Weight,136,3,Hardware
+A0076,Mobile Weight,136,3,Hardware
+A0077,Mobile Weight,136,7,Hardware
+A0078,Mobile Weight,136,2,Hardware
+A0079,Mobile Weight,136,5,Hardware
+A0080,Mobile Weight,136,9,Hardware
+A0081,Mobile Weight,136,8,Hardware
+A0082,Mobile Weight,136,5,Hardware
+A0083,Mobile Weight,136,2,Hardware
+A0084,Mobile Weight,136,4,Hardware
+A0085,Mobile Weight,136,7,Hardware
+A0086,Mobile Weight,136,3,Hardware
+A0087,Mobile Weight,136,5,Hardware
+A0088,Mobile Weight,136,10,Hardware
+A0089,Mobile Weight,136,4,Hardware
+A0090,Mobile Weight,136,0,Hardware
+A0091,Mobile Weight,136,8,Hardware
+A0092,Mobile Weight,136,7,Hardware
+A0093,Mobile Weight,136,7,Hardware
+A0094,Mobile Weight,136,8,Hardware
+A0095,Mobile Weight,136,3,Hardware
+A0096,Mobile Weight,136,0,Hardware
+A0097,Mobile Weight,136,1,Hardware
+A0098,Mobile Weight,136,1,Hardware
+A0099,Mobile Weight,136,2,Hardware
+A0100,Mobile Weight,136,9,Hardware
